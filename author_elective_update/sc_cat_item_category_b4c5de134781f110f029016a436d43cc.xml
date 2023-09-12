@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Desktop">fc15dedf4741f110f029016a436d4390</sc_cat_item>
+        <sc_category display_value="Desktops">900682363731300054b6a3549dbe5d5f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-08 14:33:54</sys_created_on>
+        <sys_id>b4c5de134781f110f029016a436d43cc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Desktops.Desktop</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_category_b4c5de134781f110f029016a436d43cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-08 14:34:04</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>43476169db159304b2e05d00cf96193b</instance_id>
+        <instance_name>dev55310</instance_name>
+        <name>sc_cat_item_category_b4c5de134781f110f029016a436d43cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Desktop">fc15dedf4741f110f029016a436d4390</sc_cat_item><sc_category display_value="Desktops">900682363731300054b6a3549dbe5d5f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-08 14:33:54</sys_created_on><sys_id>b4c5de134781f110f029016a436d43cc</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Desktops.Desktop</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_category_b4c5de134781f110f029016a436d43cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-08 14:34:04</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1398885794</payload_hash>
+        <record_name>Desktops.Desktop</record_name>
+        <reverted_from/>
+        <source>34969a934781f110f029016a436d43e5</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-08 14:37:27</sys_created_on>
+        <sys_id>7496da934781f110f029016a436d4308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a7539f6cd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-08 14:37:27</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>b0969a93c581f1109807cf2dea6e00fb</update_guid>
+        <update_guid_history>b0969a93c581f1109807cf2dea6e00fb:-1398885794,13c552537481f110688aaddea5f4ac65:-2121410582</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Desktops.Desktop">3496da934781f110f029016a436d430c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-08 14:37:27</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>825ffc218f2f4aecae106ba97e876790</sys_id>
+        <sys_metadata>b4c5de134781f110f029016a436d43cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Desktops.Desktop</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_b4c5de134781f110f029016a436d43cc</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_b4c5de134781f110f029016a436d43cc">7496da934781f110f029016a436d4308</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-08 14:37:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
